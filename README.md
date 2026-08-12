@@ -35,3 +35,6 @@ python Picker.py
 3. Run the live detection feed:
 python main.py
 - Press 'q': Exit video window
+
+## Credits
+Sample video and image assets (`carPark.mp4`, `parkingimg.jpg`) are sourced from open-source educational computer vision resources.
